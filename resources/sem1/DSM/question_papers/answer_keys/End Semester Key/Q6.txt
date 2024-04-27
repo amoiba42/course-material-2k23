@@ -1,0 +1,29 @@
+% Some students correctly pointed out that 0x220 cannot be in a 8-bit controller
+% From them, I asked them to use 0xA0 as 0x200 and 0xC0 as 0x220
+% Otherwise, same code applies
+
+movi r0
+200
+movi r1
+220
+movs r1 
+load r2
+movi r3
+00
+loop1: 
+movs r0
+load r4
+movs r3
+add r4
+movd r3
+movs r0
+adi 
+01
+movd r0
+movs r2
+subi
+01
+movd r2
+jmpdnz
+loop1
+stop

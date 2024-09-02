@@ -6,6 +6,7 @@ I have tried to compile most of the course material and resources for the course
 
 
 This git repository contains material related to the following :
+`
 .
 ├── README.md
 ├── sem1
@@ -19,7 +20,7 @@ This git repository contains material related to the following :
     ├── IOT
     ├── ISS
     └── LA
-
+`
 Some question papers may be missing , if so they are probably unavailable in public domain.
 If you have any of these missing resources , please feel free to fork this repository and send a merge request :)
 

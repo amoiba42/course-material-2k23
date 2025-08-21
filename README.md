@@ -29,6 +29,12 @@ This repo mostly contains material related to CS courses,you can refer to
 
 [This link for IIIT previous year papers](https://github.com/VijayrajS/iiitprevpapers)
 
+[This link for UG-2K24 resources](https://github.com/shahiam/IIITH-CourseWork)
+
 [This link for UG-2K22 resources](https://github.com/zyx7k/course-material)
 
 [This link for UG-2K21 resources](https://github.com/brahad316/course-material)
+
+
+
+
